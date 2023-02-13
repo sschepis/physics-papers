@@ -11,6 +11,10 @@ This paper presents the Boltzmann entropy formula, which states that the entropy
 
 This paper presents the Principle of Observational Equivalence, the foundational principle employed to build the theories presented here. It states that if two systems are methematically equivalent, then those systems are functionally equivalent, and valid logical and mathematical inferences can be made using these equivalencies.
 
+## Modeling the Observer and Environment
+
+This paper describes a mathematical model for the observer and the environment, and the entropy exchange between them. It takes into account the internal energy, heat, and entropy of the observer and the environment, and provides a framework for analyzing their interactions and their effects on each other.
+
 ## The Nature of Observation, Thermodynamics, and Quantum Mechanics
 
 This paper presents a thermodynamic model of the observer. giving empirical definitions for observer, observation, and determinism.
