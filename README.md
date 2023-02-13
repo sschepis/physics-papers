@@ -2,14 +2,19 @@
 
 A repository of my main works on physics. Discusses Observational Equivalence, thermodynamics, observation, entropy, life, consciousness, and other physics topics
 
+
+## Bollzmann Entropy Formula
+
+This paper presents the Boltzmann entropy formula, which states that the entropy of a system is proportional to the natural logarithm of the number of microstates that correspond to a particular macrostate. This formula is based on the idea that entropy is a measure of the number of possible arrangements of the particles in a system, and that the entropy of a system increases as the number of possible arrangements increases. This formula has been used to calculate the entropy of a system in various thermodynamic states, including ideal gases, solids, and liquids.
+
 ## Observational Equivalence
 
-This is the foundational principle I employ to build the theories presented here. It states that if two systems are mathematically identical and cannot be differentiated mathematically, then those systems are fundamentally equivalent, and valid inferences can be made using these equivalencies.
+This paper presents the Principle of Observational Equivalence, the foundational principle employed to build the theories presented here. It states that if two systems are methematically equivalent, then those systems are functionally equivalent, and valid logical and mathematical inferences can be made using these equivalencies.
 
 ## The Nature of Observation, Thermodynamics, and Quantum Mechanics
 
-In this paper, I present a model of the observer and observation from a thermodynamics perspective. Called entrodynamics, this model defines the observer in thermodynamic terms, giving us empirical definitions for observer, observation, and determinism.
+This paper presents a thermodynamic model of the observer. giving empirical definitions for observer, observation, and determinism.
 
 ## The Physics of Observation
 
-This paper presents a mathematical foundation for Entrodynamics, modeling the primary terms and actions mathematically.
+This paper presents a mathematical foundation for a new physics of the observer, modeling the primary terms and actions mathematically.
