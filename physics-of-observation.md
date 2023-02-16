@@ -1,5 +1,4 @@
 # The Physics of Observation: A Mathematical Model
-By Sebastian Schepis
 
 ## Definition of Entropy
 
