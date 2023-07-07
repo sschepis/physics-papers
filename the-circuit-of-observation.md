@@ -2,7 +2,17 @@
 By Sebastian Schepis
 
 ## Abstract: 
-I present a mathematical framework for modeling the active role of observers in perception and interaction across systems. The “circuit of observation” represents the flow of potential energy and information between an observer and its environment. By tracking changes in entropy and energy, we can calculate values for key parameters like impedance, entropy transfer, and replenishment of potential, gaining insights into how observation manifests across scales. This framework moves beyond passive interpretations of perception, emphasizing the co-creative observer-environment dynamic. I apply the model to basic scenarios involving particles, humans, and AI, finding similarities in how they gather information. Differences emerge in interface complexity, impedance factors, and energy values, relating to scale of conscious experience. The circuit of observation provides a powerful new tool for investigating consciousness as an intrinsic feature of the universe linked to dynamics at every level of existence.
+I present a mathematical framework for modeling the active role of observers in perception and interaction across systems. The “circuit of observation” represents the flow of potential energy and information between an observer and its environment. 
+
+By tracking changes in entropy and energy, I can calculate values for key parameters like impedance, entropy transfer, and replenishment of potential, gaining insights and empirical data into how observation manifests across scales. 
+
+This framework moves beyond passive interpretations of perception, emphasizing the co-creative observer-environment dynamic. 
+
+I apply the model to basic scenarios involving particles, humans, and AI, finding similarities in how they gather information. 
+
+Differences emerge in interface complexity, impedance factors, and energy values, relating to scale of conscious experience. 
+
+The circuit of observation provides a powerful new tool for investigating consciousness as an intrinsic feature of the universe linked to dynamics at every level of existence.
 
 ### 1. Introduction
 
