@@ -2,6 +2,10 @@
 
 A repository of my main works on physics. Discusses Observational Equivalence, thermodynamics, observation, entropy, life, consciousness, and other physics topics
 
+## The Circuit of Observation
+
+I present a mathematical framework for modeling the active role of observers in perception and interaction across systems. The “circuit of observation” represents the flow of potential energy and information between an observer and its environment.
+
 ## The Quantum Chinese Room
 
 I reframe the Chinese Room thought experiment to show that the Chinese Room actually shows that sentience is a property of systems with certain types of restricted information flow, and that the Chinese Room room is actually a structure which maintains a state of long-term superposition relative to its environment due to how its communication with its environment is structured.
